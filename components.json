@@ -887,18 +887,18 @@
   },
   "LANywhereSelfhost": {
     "asset_info": {
-      "version": "v0.8.8"
+      "version": "v0.8.9"
     },
     "asset_patterns": [
       {
-        "pattern": "switch-online-0.8.8-hats.zip"
+        "pattern": "switch-online-0.8.9-hats.zip"
       }
     ],
     "category": "Homebrew Apps",
     "default": false,
     "description": "Switch Local Wireless online. Browse rooms, test nodes, and schedule sessions. Shares the ldn_mitm module ID.",
     "name": "RoomCircuit",
-    "repo": "https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost/releases/download/v0.8.8/switch-online-0.8.8-hats.zip",
+    "repo": "https://github.com/SEc-123/Roomcircuit_lanywhere-selfhost/releases/download/v0.8.9/switch-online-0.8.9-hats.zip",
     "source_type": "direct_url"
   }
 }
